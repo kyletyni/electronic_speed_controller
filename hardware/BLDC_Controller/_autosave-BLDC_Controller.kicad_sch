@@ -5951,8 +5951,8 @@
     (property "Datasheet" "~" (at 407.67 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 97164ef4-ac37-4360-9e7b-54853e57e56c))
-    (pin "2" (uuid 8399b09e-0eb8-4cb8-955c-c152600894a8))
+    (pin "1" (uuid d5ad748a-e918-4f77-a3f1-7b16d98b165e))
+    (pin "2" (uuid b8a2efbe-59a9-431e-8cd3-a9b4b96bbe38))
     (instances
       (project "BLDC_Controller"
         (path "/85778c95-e8af-40bb-97a2-7fe6776dfc9f"
@@ -6772,11 +6772,11 @@
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/ina180.pdf" (at 436.88 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 19e910c3-6c8c-40ff-958e-0163a67d44fe))
-    (pin "2" (uuid 8cae97ec-8654-409e-9113-8fec5a2be142))
-    (pin "3" (uuid 229ba041-d184-40cc-aa66-335da2f8bbb3))
-    (pin "4" (uuid de1e576b-6d7a-422b-9f9c-7a2620f68cf2))
-    (pin "5" (uuid 9b0c61d3-d699-42fe-ab96-cae96c2f7223))
+    (pin "1" (uuid d19f6c41-6d7a-458e-8c50-3ee93da4a93c))
+    (pin "2" (uuid 63256ade-ce2f-4fff-843f-692f3141ebbf))
+    (pin "3" (uuid 388f5be1-4906-4a4e-8709-def783ea8ba0))
+    (pin "4" (uuid 887bb88e-c25c-4b66-86a2-8197bd528101))
+    (pin "5" (uuid 0e26f4fe-c4e3-45bd-841e-1d901ba8b44c))
     (instances
       (project "BLDC_Controller"
         (path "/85778c95-e8af-40bb-97a2-7fe6776dfc9f"
